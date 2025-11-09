@@ -145,8 +145,13 @@ Main GUI Flow:
 👨‍💻 Developer
 
 👤 Name: Aswin Ananth S
+
 🎓 Department: Artificial Intelligence & Data Science
+
 🏫 Institution: [Rajalakshmi Institute Of Technology]
+
 💡 Project Type: AI Lab Mini Project — E-Commerce Product Review Platform
+
 📅 Year: 2025
+
 🌐 GitHub: github.com/Aswinx05
