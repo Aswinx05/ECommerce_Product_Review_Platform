@@ -115,22 +115,20 @@ Open GUI
 → Click “View Reviews” → shows all stored reviews
 
 💾 Folder Structure
-ECommerce_Product_Review_Platform/
-│
+```text
+mini_project/
 ├── src/
-│   └── mini_project/
-│       ├── Module1_DatabaseSetup.java
-│       ├── Module2_AddProduct.java
-│       ├── Module3_ConnectionTest.java
-│       ├── Module4_ProductGUI.java
-│       └── Module5_ReviewGUI.java
-│
+│ └── mini_project/
+│ ├── module1.java
+│ ├── module2.java
+│ ├── module3.java
+│ ├── module4.java
+│ └── module5.java
 ├── lib/
-│   └── mysql-connector-java.jar
-│
-├── .gitignore
+│ └── mysql-connector-j-9.5.0.jar
 ├── reviews.txt
-└── README.md
+└── .gitignore
+```
 
 📸 Output Preview
 
